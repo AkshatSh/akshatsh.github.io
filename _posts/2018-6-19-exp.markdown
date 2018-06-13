@@ -1,0 +1,13 @@
+---
+layout: default
+img: facebook.png
+category: Experience
+title: Facebook
+description: |
+---
+
+#### Software Engineer
+
+* Working in New York City on the Service Lab: Performance Testing for Backend Servers
+* Collaborated with multiple teams across Facebook, Presented design decisions
+* Responsibilities included developing in Python backend, and front end work in `PHP` and `React.js`

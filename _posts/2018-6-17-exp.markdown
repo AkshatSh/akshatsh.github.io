@@ -1,0 +1,13 @@
+---
+layout: default
+img: google.jpg
+category: Experience
+title: Google
+description: |
+---
+
+#### Software Engineer
+
+* Working on the payments infrastructure team, worked on developing generators for APIs
+* Implemented experiments in buy flows to test for conversion rates
+* Primarily worked in backend `Java` and with `Protocol Buffers`

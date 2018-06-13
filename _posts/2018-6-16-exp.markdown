@@ -1,0 +1,13 @@
+---
+layout: default
+img: tableau.jpg
+category: Experience
+title: Tableau
+description: |
+---
+
+#### Software Engineer
+
+* Worked on Tableau Runtime to develop tools and algorithms for validation and visualization of Tableau Runtime artifacts
+* Presented and participated in design reviews and hackathons
+* Majority of work consisted of manipulating graphs and trees, primarily done in `Python`/`DJango` and `HTML`/`CSS`/`JS`

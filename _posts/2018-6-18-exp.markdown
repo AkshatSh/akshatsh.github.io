@@ -1,0 +1,12 @@
+---
+layout: default
+img: idl.png
+category: Experience
+title: Interactive Data Lab
+description: |
+---
+
+#### Undergraduate Research Assistant
+
+* Working on Voyager, CompassQL, and Vega-Lite
+* Primarily work in `Typescript`, `JavaScript` and `Git`

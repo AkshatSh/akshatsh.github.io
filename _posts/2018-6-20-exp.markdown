@@ -1,0 +1,13 @@
+---
+layout: default
+img: microsoft.png
+category: Experience
+title: Microsoft
+description: |
+---
+
+#### Software Engineer
+
+* Working on the Microsoft Intune Authorization team
+* Presented and iterated on service design and security
+* Implementing a protocol for authorizing service requests in oAuth in `C#`
