@@ -1,6 +1,6 @@
 <section id="education">
     <!-- Page Content -->
-    {% for post in site.posts reversed %}
+    {% for post in site.posts %}
         {% if post.category contains 'Education'%}
           {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
             {% if thecycle == 'odd' %}
