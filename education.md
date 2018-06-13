@@ -4,7 +4,7 @@ title: Education
 permalink: /education/
 ---
 
-## Masters Degree at the University of Washington in Computer Science
+<!-- ## Masters Degree at the University of Washington in Computer Science
 
 **Focus in:** Machine Learning
 
@@ -30,4 +30,4 @@ Discrete Mathematics and Structures, Algorithms, Probability and Statistics
 
 Data Visualization, Systems Programming, Computer Networks, Databases, Database System Implementation
 
-Artificial Intelligence, Matrix Algebra, Machine Learning, Natural Language Processing
+Artificial Intelligence, Matrix Algebra, Machine Learning, Natural Language Processing -->
