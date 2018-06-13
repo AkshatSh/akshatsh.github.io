@@ -4,12 +4,24 @@ title: Education
 permalink: /education/
 ---
 
-Some information about you!
+## Masters Degree at the University of Washington in Computer Science
 
-### More Information
+## Focus in: Machine Learning
 
-A place to include any other types of information that you'd like to include about yourself.
+**Research in Interactive Natural Language Processing**
 
-### Contact me
+**Relevant Coursework**
 
-[akshats@cs.washington.edu](mailto:akshats@cs.washington.edu)
+Computer Vision, Compilers
+
+## Bachelors Degree at the University of Washington in Computer Science
+
+### Specialization: Data Science
+
+**GPA**: 3.89/4.00
+**Magna Cum Laude**
+**Dean's List 2014-2018**
+
+**Relevant Coursework**
+
+Discrete Mathematics and Structures, Algorithms, Probability and Statistics, Data Visualization, Systems Programming, Artificial Intelligence, Computer Networks, Databases, Matrix Algebra,Machine Learning, Natural Language Processing, Database System Implementation
