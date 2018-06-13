@@ -1,0 +1,13 @@
+---
+layout: default
+img: caradigm.png
+category: Experience
+title: Caradigm
+description: |
+---
+
+### Software Engineer
+
+* Developed enterprise software for health care. Built components that displayed various health data for patients
+* Collaborated and contributed with team to improve and add functionality to applications
+* Used and enhanced my skills in front-end web development, by using JavaScript, Knockout, JQuery, CSS/HTML5, and backend development using SQL
