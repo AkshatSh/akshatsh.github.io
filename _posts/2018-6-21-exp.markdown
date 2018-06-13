@@ -6,6 +6,6 @@ title: Facebook
 description: |
 ---
 
-#### Software Engineer
+#### Software Engineer Intern
 
 * Working on the News Feed Content Classifcation Team

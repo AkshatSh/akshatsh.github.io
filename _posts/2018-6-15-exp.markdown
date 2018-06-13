@@ -6,7 +6,7 @@ title: Caradigm
 description: |
 ---
 
-#### Software Engineer
+#### Software Engineer Intern
 
 * Developed enterprise software for health care. Built components that displayed various health data for patients
 * Collaborated and contributed with team to improve and add functionality to applications

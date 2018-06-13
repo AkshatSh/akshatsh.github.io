@@ -6,7 +6,7 @@ title: Tableau
 description: |
 ---
 
-#### Software Engineer
+#### Software Engineer Intern
 
 * Worked on Tableau Runtime to develop tools and algorithms for validation and visualization of Tableau Runtime artifacts
 * Presented and participated in design reviews and hackathons

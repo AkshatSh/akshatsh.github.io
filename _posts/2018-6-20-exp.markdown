@@ -6,7 +6,7 @@ title: Microsoft
 description: |
 ---
 
-#### Software Engineer
+#### Software Engineer Intern
 
 * Working on the Microsoft Intune Authorization team
 * Presented and iterated on service design and security
