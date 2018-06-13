@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: education_layout
 title: Education
 permalink: /education/
 ---
