@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dubhacks.png
+img: twitter.png
 category: Project
 title: Topics
 keywords: NLP, D3, JavaScript

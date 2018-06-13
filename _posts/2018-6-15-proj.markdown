@@ -1,6 +1,6 @@
 ---
 layout: default
-img: blurface.png
+img: blurface.jpg
 category: Project
 title: FaceBlur
 keywords: Computer Vision

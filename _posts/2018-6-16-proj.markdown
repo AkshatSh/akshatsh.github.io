@@ -1,6 +1,6 @@
 ---
 layout: default
-img: refresh.png
+img: refresh.jpg
 category: Project
 title: ReFresh
 keywords: Computer Vision, Algorithms, WebBackend, Search, IOT

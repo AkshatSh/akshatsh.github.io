@@ -1,6 +1,6 @@
 ---
 layout: default
-img: java.png
+img: ontheotherside.png
 category: Project
 title: On the Other Side of the Canal
 keywords: Data Visualization, Interactive Data Visualization
