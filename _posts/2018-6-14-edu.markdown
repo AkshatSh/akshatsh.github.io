@@ -1,0 +1,16 @@
+---
+layout: default
+img: uw.png
+category: Education
+title: Masters Degree
+description: |
+---
+
+**Focus in:** Machine Learning
+
+**Research in:** Interactive Natural Language Processing
+
+**Relevant Coursework**
+
+* Computer Vision
+* Compilers
