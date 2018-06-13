@@ -1,1 +1,16 @@
-# Video Search Engine
+---
+layout: default
+img: presentation.gif
+category: Project
+title: Video Search Engine
+keywords: Computer Vision, Deep Learning, Distirbuted Systems, Natural Language Processing
+description: |
+---
+
+* An application to search through your videos by using generated video summaries
+* Solves Video Summarization through Distributed Image Captioning
+
+**Languages**: `Python`
+**Technologies**: `PyTorch`, `Numpy`, `CUDA`, `Flask`
+
+[See More on Github!](https://github.com/AkshatSh/VideoSearchEngine)
