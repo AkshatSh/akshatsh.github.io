@@ -1,1 +1,17 @@
-# Paypal Nonprofit Hackathon
+---
+layout: default
+img: up.png
+category: Project
+title: Up (Paypal NonProfit Hackathon)
+keywords: Data Visualization, Interactive Data Visualization
+description: |
+---
+
+* Our goal is to build a versatile platform that can provide recommendations and services to users who are in poverty through the non-profit organization [Understanding Poverty](http://www.understandingpoverty.com/#understanding-poverty)
+* Built a server and mobile client, for users to search through various sources for recommendations and services
+* Implements a ranking system for getting results from a query
+
+**Languages**: `javascript`, `java`
+**Technologies**: `node.js`, `android`
+
+[GitHub](https://github.com/AkshatSh/Repo-10)

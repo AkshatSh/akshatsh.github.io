@@ -1,1 +1,15 @@
-# FaceBlur
+---
+layout: default
+img: blurface.png
+category: Project
+title: FaceBlur
+keywords: Computer Vision
+description: |
+---
+
+* To learn OpenCV, I built an application that reads through the webcam a video, and applies a guassian blur, to the faces detected using a haar cascade classifier.
+
+**Languages**: `C++`
+**Technologies**: `OpenCV`
+
+[GitHub](https://github.com/AkshatSh/FaceBlur)

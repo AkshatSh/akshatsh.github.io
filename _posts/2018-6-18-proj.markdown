@@ -1,1 +1,19 @@
-# On the Other Side of The Canal
+---
+layout: default
+img: java.png
+category: Project
+title: On the Other Side of the Canal
+keywords: Data Visualization, Interactive Data Visualization
+description: |
+---
+
+* Built a compiler from scratch that handles a subset of `Java` known as `MiniJava`
+* Added features for Double support
+* Added features for optional code profiling
+* Added features for optional heap profiling
+* Added features for annotating original source file with profiling results
+
+**Languages**: `javascript`, `html`, `css`
+**Technologies**: `d3.js`
+
+[Live Version](https://cse442-17s.github.io/On-the-Other-Side-of-the-Canal/final/)

@@ -1,1 +1,18 @@
-# Topics
+---
+layout: default
+img: dubhacks.png
+category: Project
+title: Topics
+keywords: NLP, D3, JavaScript
+description: |
+---
+
+* This app queries twitter, and graphs the sentiment of all the tweets for a given topic
+* Displays overall, and by region in the US
+
+**Languages**: `javascript`
+**Technologies**: `node.js`, `d3.js`
+
+[Github Client](https://github.com/AkshatSh/Topics)
+
+[Github Server](https://github.com/AkshatSh/TopicsClient)

@@ -1,1 +1,19 @@
-# Minijava Compiler
+---
+layout: default
+img: java.png
+category: Project
+title: MiniJava Compiler
+keywords: Compilers, Code Profiling
+description: |
+---
+
+* Built a compiler from scratch that handles a subset of `Java` known as `MiniJava`
+* Added features for Double support
+* Added features for optional code profiling
+* Added features for optional heap profiling
+* Added features for annotating original source file with profiling results
+
+**Languages**: `Java`, `C`, `x86_64`
+**Technologies**: `CUP`, `JFlex`
+
+[Reach out to see more](akshatsh.github.io)
