@@ -18,14 +18,14 @@ avatar: https://avatars1.githubusercontent.com/u/9097613?s=460&v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: akshats@cs.uw.edu
+  facebook: akshat.shrivastava.1420
   flickr:
   github: AkshatSh
-  instagram:
-  linkedin:
+  instagram: akshats77
+  linkedin: akshatsh
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: a # just type anything here for a working RSS icon
   twitter: # jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
