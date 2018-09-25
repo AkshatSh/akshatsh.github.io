@@ -9,3 +9,5 @@ description: |
 #### Software Engineer Intern
 
 * Working on the News Feed Content Classifcation Team
+* Worked on Text Modeling, Model Calibration, and Feature Discovery Tools
+* Work invovled Python, C++, Hack (PHP), and Caffe2
