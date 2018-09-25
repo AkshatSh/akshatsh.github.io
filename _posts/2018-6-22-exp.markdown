@@ -1,0 +1,12 @@
+---
+layout: default
+img: idl.png
+category: Experience
+title: Interactive Data Lab
+description: |
+---
+
+#### Graduate Research Assistant
+
+* Working on Natural Language Processing in Exploratory Data Analysis
+* Advisor: Jeffery Heer
