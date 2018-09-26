@@ -1,23 +1,22 @@
 /* sweetScroll load */
 document.addEventListener("DOMContentLoaded", function () {
-  console.log('loaded');
     // const sweetScroll = new SweetScroll({/* some options */});
   
     /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
     particlesJS('particles-js', {
       "particles": {
         "number": {
-          "value": 30,
+          "value": 42,
           "density": {
             "enable": true,
-            "value_area": 800
+            "value_area": 394.57382081613633
           }
         },
         "color": {
-          "value": "#ffffff"
+          "value": "#000000"
         },
         "shape": {
-          "type": "polygon",
+          "type": "circle",
           "stroke": {
             "width": 0,
             "color": "#000000"
@@ -46,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "random": true,
           "anim": {
             "enable": false,
-            "speed": 19.18081918081918,
+            "speed": 40,
             "size_min": 0.1,
             "sync": false
           }
@@ -54,15 +53,15 @@ document.addEventListener("DOMContentLoaded", function () {
         "line_linked": {
           "enable": true,
           "distance": 150,
-          "color": "#ffffff",
+          "color": "#000000",
           "opacity": 0.4,
           "width": 1
         },
         "move": {
           "enable": true,
-          "speed": 4,
+          "speed": 6,
           "direction": "none",
-          "random": true,
+          "random": false,
           "straight": false,
           "out_mode": "out",
           "bounce": false,
@@ -71,18 +70,17 @@ document.addEventListener("DOMContentLoaded", function () {
             "rotateX": 600,
             "rotateY": 1200
           }
-        },
-        nb: 80
+        }
       },
       "interactivity": {
-        "detect_on": "window",
+        "detect_on": "canvas",
         "events": {
           "onhover": {
             "enable": false,
-            "mode": "grab"
+            "mode": "repulse"
           },
           "onclick": {
-            "enable": true,
+            "enable": false,
             "mode": "push"
           },
           "resize": true

@@ -1,0 +1,21 @@
+<section id="projects">
+    <!-- Page Content -->
+    {% for post in site.posts %}
+        {% if post.category contains 'Title'%}
+            <div id="particles-js">
+    
+                <h1 class="vertical">
+                    <span class="site-title">Akshat Shrivastava</span>
+                    <span class="site-description">Master's Student In Computer Science</span>
+
+                    <span class="title-icons">{% include svg-icons.html %}</span>
+                </h1>
+                <!-- /.container -->
+    
+            </div>
+
+        <script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+        <script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
+        {% endif %}
+    {% endfor %}
+</section>
