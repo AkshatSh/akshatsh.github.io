@@ -85,3 +85,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - package.json
+  - src 
+  - node_modules
