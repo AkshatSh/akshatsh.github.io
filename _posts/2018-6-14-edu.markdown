@@ -13,3 +13,4 @@ description: |
 
 * Computer Vision
 * Compilers
+* Deep Learning
