@@ -6,7 +6,7 @@ description: |
 ---
 
 
-#### Deep Learning
+#### Deep Learning and Machine Learning
 
 * `Numpy`, `PyTorch`, `Caffe2`
 
