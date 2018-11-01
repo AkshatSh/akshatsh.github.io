@@ -9,4 +9,4 @@ description: |
 #### Graduate Research Assistant
 
 * Working on Natural Language Processing in Exploratory Data Analysis
-* Advisor: Jeffery Heer
+* Advisor: Jeffrey Heer
