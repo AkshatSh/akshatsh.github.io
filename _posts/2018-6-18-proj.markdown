@@ -7,11 +7,8 @@ keywords: Data Visualization, Interactive Data Visualization
 description: |
 ---
 
-* Built a compiler from scratch that handles a subset of `Java` known as `MiniJava`
-* Added features for Double support
-* Added features for optional code profiling
-* Added features for optional heap profiling
-* Added features for annotating original source file with profiling results
+* A project to show case Seattle's struggle with race, neighborhoods, and education.
+* We show various interactive visualizations to dive deep into race and education
 
 **Languages**: `javascript`, `html`, `css`
 **Technologies**: `d3.js`
