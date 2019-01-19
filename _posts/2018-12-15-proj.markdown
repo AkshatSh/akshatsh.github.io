@@ -12,4 +12,4 @@ description: |
 **Languages**: `Python`
 **Technologies**: `PyTorch`, `numpy`, `xnornet`, `fairseq`
 
-[Soon a link to github!](https://github.com/AkshatSh/VideoSearchEngine)
+[See More on Github!](https://github.com/AkshatSh/BinarizedNMT)
