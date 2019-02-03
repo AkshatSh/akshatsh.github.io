@@ -8,5 +8,8 @@ description: |
 
 #### Undergraduate Research Assistant
 
-* Working on Voyager, CompassQL, and Vega-Lite
-* Primarily work in `Typescript`, `JavaScript` and `Git`
+* Worked on Data Flow Optimization in Vega-Lite (a visualization grammar) to reduce redundancy and the size of the data flow graph
+* Worked on Implementing a Window transform in Vega-Lite to calculate aggregates for items in a defined window
+* Worked on various features for the constraint engine for Voyager (a visualization recommendation tool)
+* [Vega-Lite](http://vega.github.io/vega-lite/)
+* [CompassQL (Voyager Constraint Engine)](https://github.com/vega/compassql)
