@@ -15,3 +15,5 @@ description: |
 * Compilers
 * Deep Learning
 * AI in Robotics
+* NLP Capstone
+* Reasoning and Representation in Natural Language
