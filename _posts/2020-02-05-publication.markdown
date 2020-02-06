@@ -12,4 +12,4 @@ description: |
 
 **Will be presented at ACM IUI 2020**
 
-[Paper PDF](http://akshatsh.github.io/pdfs/iseql_paper.pdf)
+[Paper PDF](http://akshatsh.github.io/papers/iseql_paper.pdf)
