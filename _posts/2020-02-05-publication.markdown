@@ -1,6 +1,6 @@
 ---
 layout: default
-category: Project
+category: Publication
 title: iSeqL Interactive Sequence Learning
 keywords: Interactive Machine Learning, Active Learning, NLP
 description: |
