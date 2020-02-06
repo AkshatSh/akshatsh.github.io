@@ -12,9 +12,4 @@ description: |
 
 **Will be presented at ACM IUI 2020**
 
-[Paper PDF](http://akshatsh.github.io/paper.pdf)
-
-[Paper PDF2](http://akshatsh.github.io/pdfs/paper.pdf)
-
-
-[<a href="{{ site.baseurl }}/pdfs/paper.pdf" alt="Paper PDF">Paper 3 PDF Link</a>
+[Paper PDF](http://akshatsh.github.io/pdfs/iseql_paper.pdf)
