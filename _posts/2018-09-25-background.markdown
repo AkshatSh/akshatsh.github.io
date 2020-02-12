@@ -5,7 +5,9 @@ title: Background
 description: |
 ---
 
-* I am currently a Graduate student at University of Washington interested in machine learning and natural language processing. Currently working with Prof. Jeffrey Heer at the Interactive Data Lab.
+* Currently, I am a machine learning engineer at Facebook Assistant working on Natural Language Understanding for Conversational Assistants.
+
+* I recieved my Masters Degree from the University of Washington in 2019, my focus was in machine learning and natural language processing. I was working with Prof. Jeffrey Heer at the Interactive Data Lab.
 
 * I graduated Magna Cum Laude from the University of Washington in 2018 with a degree in Computer Science with a specialization in Data Science.
 
