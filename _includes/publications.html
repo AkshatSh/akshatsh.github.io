@@ -13,14 +13,14 @@
                             <div class="clearfix"></div>
                         </div> {% endcomment %}
                         <div class="row">
-                            {% comment %} <div>
+                            <div>
                                 <h2 class="section-heading">{{ post.title }}</h2>
                                 <div class="lead">{{ post.content }}</div>
-                            </div> {% endcomment %}
-                        <div class="col-lg-offset-1 col-sm-push-6">
+                            </div>
+                        {% comment %} <div class="col-lg-offset-1 col-sm-push-6">
                             <h2 class="section-heading">{{ post.title }}</h2>
                             <div class="lead">{{ post.content }}</div>
-                        </div>
+                        </div> {% endcomment %}
                         </div>
         
                     </div>
@@ -39,10 +39,14 @@
                         <div class="clearfix"></div>
                     </div> {% endcomment %}
                     <div class="row">
-                        <div class="col-lg-offset-1 col-sm-push-6">
+                        <div>
                             <h2 class="section-heading">{{ post.title }}</h2>
                             <div class="lead">{{ post.content }}</div>
                         </div>
+                        {% comment %} <div class="col-lg-offset-1 col-sm-push-6">
+                            <h2 class="section-heading">{{ post.title }}</h2>
+                            <div class="lead">{{ post.content }}</div>
+                        </div> {% endcomment %}
                     </div>
             </div>
                 <!-- /.container -->
