@@ -4,36 +4,40 @@
         {% if post.category contains 'Publication'%}
           {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
             {% if thecycle == 'odd' %}
-            <div class="content-section-a">
-    
-                <div class="container">
-                    <div class="row">
-                        <h2 class="category-heading alt-font">{{ post.category }}</h2>
-                        <hr class="section-heading-spacer">
-                        <div class="clearfix"></div>
-                    </div>
-                    <div class="row">
-                        <div>
+                <div class="content-section-a">
+        
+                    <div class="container">
+                        {% comment %} <div class="row">
+                            <h2 class="category-heading alt-font">{{ post.category }}</h2>
+                            <hr class="section-heading-spacer">
+                            <div class="clearfix"></div>
+                        </div> {% endcomment %}
+                        <div class="row">
+                            {% comment %} <div>
+                                <h2 class="section-heading">{{ post.title }}</h2>
+                                <div class="lead">{{ post.content }}</div>
+                            </div> {% endcomment %}
+                        <div class="col-lg-offset-1 col-sm-push-6">
                             <h2 class="section-heading">{{ post.title }}</h2>
                             <div class="lead">{{ post.content }}</div>
                         </div>
+                        </div>
+        
                     </div>
-    
+                    <!-- /.container -->
+        
                 </div>
-                <!-- /.container -->
-    
-            </div>
             <!-- /.content-section-a -->
             {% else %}
     
             <div class="content-section-b">
     
                 <div class="container">
-                    <div class="row">
+                    {% comment %} <div class="row">
                         <h2 class="category-heading alt-font">{{ post.category }}</h2>
                         <hr class="section-heading-spacer">
                         <div class="clearfix"></div>
-                    </div>
+                    </div> {% endcomment %}
                     <div class="row">
                         <div class="col-lg-offset-1 col-sm-push-6">
                             <h2 class="section-heading">{{ post.title }}</h2>
