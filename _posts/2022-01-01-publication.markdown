@@ -11,7 +11,7 @@ description: |
 * [Span Pointer Networks for Non-Autoregressive Task-Oriented Semantic Parsing](https://arxiv.org/abs/2104.07275)  
 **Akshat Shrivastava**, Pierce Chuang, Arun Babu, Shrey Desai, Abhinav Arora, Alexander Zotov, Ahmed Aly  
 Preprint
-* [Low-Resource Task-Oriented Semantic Parsing via Intrinsic Modeling](https://arxiv.org/abs/2104.07275)  
+* [Low-Resource Task-Oriented Semantic Parsing via Intrinsic Modeling](https://arxiv.org/abs/2104.07224)  
 Shrey Desai, **Akshat Shrivastava**, Alexander Zotov, Ahmed Aly  
 Preprint
 * [Non-Autoregressive Semantic Parsing for Compositional Task-Oriented Dialog](https://arxiv.org/abs/2104.04923)  
