@@ -8,7 +8,7 @@ description: |
 
 ## 2021
 * [Latency-Aware Neural Architecture Search with Multi-Objective Bayesian Optimization](https://arxiv.org/abs/2106.11890)  
-David Eriksson, Pierce I-Jen Chuang, Sam Daulton, Peng Xia, **Akshat Shrivastava**, Arun Babu, Shicong Zhao, Ahmed Aly, Ganesh Venkatesh, and Maximilian Balandat 
+David Eriksson, Pierce I-Jen Chuang, Sam Daulton, Peng Xia, **Akshat Shrivastava**, Arun Babu, Shicong Zhao, Ahmed Aly, Ganesh Venkatesh, and Maximilian Balandat  
 **ICML Workshop on Automated Machine Learning 2021**
 * [Span Pointer Networks for Non-Autoregressive Task-Oriented Semantic Parsing](https://arxiv.org/abs/2104.07275)  
 **Akshat Shrivastava**, Pierce Chuang, Arun Babu, Shrey Desai, Abhinav Arora, Alexander Zotov, and Ahmed Aly  
