@@ -1,7 +1,7 @@
 ---
 layout: default
 category: Publication
-title: RETRONLU: Retrieval Augmented Task-Oriented Semantic Parsing
+title: RETRONLU Retrieval Augmented Task-Oriented Semantic Parsing
 keywords: Semantic Parsing, Conversational AI
 description: |
 ---
