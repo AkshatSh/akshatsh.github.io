@@ -6,6 +6,7 @@ title: Facebook
 description: |
 ---
 
-#### Machine Learning Engineer
+#### Research Scientist
 
 * Working on Natural Language Understanding at Facebook Assistant
+* Exploring efficient and scalable solutions to semantic parsing, see publications for latest work
