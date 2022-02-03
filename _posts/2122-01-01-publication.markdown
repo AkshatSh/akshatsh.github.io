@@ -6,6 +6,11 @@ keywords: Publications
 description: |
 ---
 
+## 2022
+* [Retrieve-and-Fill for Scenario-based Task-Oriented Semantic Parsing](https://arxiv.org/abs/2202.00901)  
+**Akshat Shrivastava**, Shrey Desai, Anchit Gupta, Ali Elkahky, Aleksandr Livshits, Alexander Zotov, Ahmed Aly   
+Preprint
+
 ## 2021
 * [RETRONLU: Retrieval Augmented Task-Oriented Semantic Parsing](https://arxiv.org/abs/2109.10410)   
 Vivek Gupta, **Akshat Shrivastava**, Adithya Sagar, Armen Aghajanyan, and Denis Savenkov   
