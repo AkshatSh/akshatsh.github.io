@@ -6,8 +6,22 @@ keywords: Publications
 description: |
 ---
 
+# Papers
+
 ## 2022
-* [Retrieve-and-Fill for Scenario-based Task-Oriented Semantic Parsing](https://arxiv.org/abs/2202.00901)  
+* [Introducing Semantics into Speech Encoders](https://arxiv.org/abs/2211.08402)   
+Derek Xu, Shuyan Dong, Changhan Wang, Suyoun Kim, Zhaojiang Lin, **Akshat Shrivastava**, Shang-Wen Li, Liang-Hsuan Tseng, Alexei Baevski, Guan-Ting Lin, Hung-yi Lee, Yizhou Sun, Wei Wang.  
+Preprint
+* [Data-Efficiency with a Single GPU: An Exploration of Transfer Methods for Small Language Models](https://arxiv.org/abs/2210.03871).  
+Alon Albalak, **Akshat Shrivastava**, Chinnadhurai Sankar, Adithya Sagar, Mike Ross.  
+Preprint
+* [STOP: A dataset for Spoken Task Oriented Semantic Parsing](https://arxiv.org/abs/2207.10643)      
+Paden Tomasello, **Akshat Shrivastava**, Daniel Lazar, Po-Chun Hsu, Duc Le, Adithya Sagar, Ali Elkahky, Jade Copet, Wei-Ning Hsu, Yossi Adi, Robin Algayres, Tu Ahn Nguyen, Emmanuel Dupoux, Luke Zettlemoyer, Abdelrahman Mohamed.  
+**SLT 2023**
+* [Deliberation Model for On-Device Spoken Language Understanding](https://arxiv.org/abs/2204.01893)    
+Duc Le*, **Akshat Shrivastava***, Paden Tomasello, Suyoun Kim, Aleksandr Livshits, Ozlem Kalinli, Michael L. Seltzer.  
+**Interspeech 2022**
+* [Retrieve-and-Fill for Scenario-based Task-Oriented Semantic Parsing](https://arxiv.org/abs/2202.00901)     
 **Akshat Shrivastava**, Shrey Desai, Anchit Gupta, Ali Elkahky, Aleksandr Livshits, Alexander Zotov, Ahmed Aly   
 Preprint
 
@@ -48,3 +62,15 @@ Armen Aghajanyan, **Akshat Shrivastava**, Anchit Gupta, Naman Goyal, Luke Zettle
 * [iSeqL Interactive Sequence Learning](https://github.com/AkshatSh/iSeqL)  
 **Akshat Shrivastava** and Jeffrey Heer  
 **IUI 2020**
+
+# Workshops and Challenges
+
+## Organizer
+* [Spoken Language Understanding Grand Challenge @ ICASSP 2023](https://facebookresearch.github.io/spoken_task_oriented_parsing/).  
+**ICASSP 2023**
+
+## Program Comittee
+* [Transfer Learning 4 NLP @ NeurIPS 2022](https://tl4nlp.github.io/) 
+* EACL 2022
+* [NLP For Conversational AI @ ACL 2022](https://sites.google.com/view/4thnlp4convai/home?authuser=0)
+* ACL 2022
