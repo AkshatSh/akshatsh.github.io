@@ -6,9 +6,9 @@ keywords: Publications
 description: |
 ---
 
-# Papers
+## Papers
 
-## 2022
+### 2022
 * [Introducing Semantics into Speech Encoders](https://arxiv.org/abs/2211.08402)   
 Derek Xu, Shuyan Dong, Changhan Wang, Suyoun Kim, Zhaojiang Lin, **Akshat Shrivastava**, Shang-Wen Li, Liang-Hsuan Tseng, Alexei Baevski, Guan-Ting Lin, Hung-yi Lee, Yizhou Sun, Wei Wang.  
 Preprint
@@ -25,7 +25,7 @@ Duc Le*, **Akshat Shrivastava***, Paden Tomasello, Suyoun Kim, Aleksandr Livshit
 **Akshat Shrivastava**, Shrey Desai, Anchit Gupta, Ali Elkahky, Aleksandr Livshits, Alexander Zotov, Ahmed Aly   
 Preprint
 
-## 2021
+### 2021
 * [RETRONLU: Retrieval Augmented Task-Oriented Semantic Parsing](https://arxiv.org/abs/2109.10410)   
 Vivek Gupta, **Akshat Shrivastava**, Adithya Sagar, Armen Aghajanyan, and Denis Savenkov   
 Preprint
@@ -48,7 +48,7 @@ Arun Babu, **Akshat Shrivastava**, Armen Aghajanyan, Ahmed Aly, Angela Fan, and 
 Armen Aghajanyan, Anchit Gupta, **Akshat Shrivastava**, Xilun Chen, Luke Zettlemoyer, and Sonal Gupta  
 **EMNLP 2021**
 
-## 2020
+### 2020
 
 * [Conversational Semantic Parsing](https://arxiv.org/abs/2009.13655)  
 Armen Aghajanyan, Jean Maillard, **Akshat Shrivastava**, Keith Diedrick, Mike Haeger, Haoran Li, Yashar Mehdad, Ves Stoyanov, Anuj Kumar, Mike Lewis, and Sonal Gupta  
@@ -63,13 +63,13 @@ Armen Aghajanyan, **Akshat Shrivastava**, Anchit Gupta, Naman Goyal, Luke Zettle
 **Akshat Shrivastava** and Jeffrey Heer  
 **IUI 2020**
 
-# Workshops and Challenges
+## Workshops and Challenges
 
-## Organizer
+### Organizer
 * [Spoken Language Understanding Grand Challenge @ ICASSP 2023](https://facebookresearch.github.io/spoken_task_oriented_parsing/).  
 **ICASSP 2023**
 
-## Program Comittee
+### Program Comittee
 * [Transfer Learning 4 NLP @ NeurIPS 2022](https://tl4nlp.github.io/) 
 * EACL 2022
 * [NLP For Conversational AI @ ACL 2022](https://sites.google.com/view/4thnlp4convai/home?authuser=0)
