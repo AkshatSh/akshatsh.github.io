@@ -5,7 +5,7 @@ title: Background
 description: |
 ---
 
-* Currently, I am a machine learning engineer at Facebook Assistant working on Natural Language Understanding for Conversational Assistants.
+* Currently, I am a research scientist at Meta Reality Labs working on Natural Language Understanding for Conversational Assistants.
 
 * I recieved my Masters Degree from the University of Washington in 2019, my focus was in machine learning and natural language processing. I was working with Prof. Jeffrey Heer at the Interactive Data Lab.
 
