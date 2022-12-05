@@ -19,7 +19,7 @@ Preprint
 Paden Tomasello, **Akshat Shrivastava**, Daniel Lazar, Po-Chun Hsu, Duc Le, Adithya Sagar, Ali Elkahky, Jade Copet, Wei-Ning Hsu, Yossi Adi, Robin Algayres, Tu Ahn Nguyen, Emmanuel Dupoux, Luke Zettlemoyer, Abdelrahman Mohamed.  
 **SLT 2023**
 * [Deliberation Model for On-Device Spoken Language Understanding](https://arxiv.org/abs/2204.01893)    
-Duc Le*, **Akshat Shrivastava***, Paden Tomasello, Suyoun Kim, Aleksandr Livshits, Ozlem Kalinli, Michael L. Seltzer.  
+Duc Le\*, **Akshat Shrivastava\* (co-first author)**, Paden Tomasello, Suyoun Kim, Aleksandr Livshits, Ozlem Kalinli, Michael L. Seltzer.  
 **Interspeech 2022**
 * [Retrieve-and-Fill for Scenario-based Task-Oriented Semantic Parsing](https://arxiv.org/abs/2202.00901)     
 **Akshat Shrivastava**, Shrey Desai, Anchit Gupta, Ali Elkahky, Aleksandr Livshits, Alexander Zotov, Ahmed Aly   
