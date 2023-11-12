@@ -8,10 +8,28 @@ description: |
 
 ## Papers
 
+### 2023
+* [ICASSP 2023 SPOKEN LANGUAGE UNDERSTANDING GRAND CHALLENGE](https://akshatsh.github.io/papers/SLU_ICASSP_Challenge_Summary_upload.pdf) | [Challenge Website](https://facebookresearch.github.io/spoken_task_oriented_parsing/)  
+**Akshat Shrivastava**, Suyoun Kim, Paden Tomasello, Ali Elkahky, Daniel Lazar,Trang Le, Shan Jiang, Duc Le, Aleksandr Livshits, Ahmed Aly     
+**ICASSP 2023**
+* [Augmenting text for spoken language understanding with Large Language Models](https://arxiv.org/abs/2309.09390)  
+Roshan Sharma, Suyoun Kim, Daniel Lazar, Trang Le, **Akshat Shrivastava**, Kwanghoon Ahn, Piyush Kansal, Leda Sari, Ozlem Kalinli, Michael Seltzer  
+Preprint
+* [Modality Confidence Aware Training for Robust End-to-End Spoken Language Understanding](https://arxiv.org/abs/2307.12134)  
+Suyoun Kim, **Akshat Shrivastava**, Duc Le, Ju Lin, Ozlem Kalinli, Michael L. Seltzer  
+**Interspeech 2022**
+* [TreePiece: Faster Semantic Parsing via Tree Tokenization](https://arxiv.org/abs/2303.1716)  
+Sid Wang, **Akshat Shrivastava**, Sasha Livshits  
+**EMNLP Findings 2022**
+* [Privately Customizing Prefinetuning to Better Match User Data in Federated Learning](https://arxiv.org/abs/2302.09042)  
+Charlie Hou, Hongyuan Zhan, **Akshat Shrivastava**, Sida I. Wang, Sasha Livshits, Giulia C. Fanti, Daniel Lazar
+**Workshop on the pitfalls of limited data and computation for Trustworthy ML, ICLR 2023**
+
+
 ### 2022
 * [Introducing Semantics into Speech Encoders](https://arxiv.org/abs/2211.08402)   
-Derek Xu, Shuyan Dong, Changhan Wang, Suyoun Kim, Zhaojiang Lin, **Akshat Shrivastava**, Shang-Wen Li, Liang-Hsuan Tseng, Alexei Baevski, Guan-Ting Lin, Hung-yi Lee, Yizhou Sun, Wei Wang.  
-Preprint
+Derek Xu, Shuyan Dong, Changhan Wang, Suyoun Kim, Zhaojiang Lin, **Akshat Shrivastava**, Shang-Wen Li, Liang-Hsuan Tseng, Alexei Baevski, Guan-Ting Lin, Hung-yi Lee, Yizhou Sun, Wei Wang.
+**ACL 2023**
 * [Data-Efficiency with a Single GPU: An Exploration of Transfer Methods for Small Language Models](https://arxiv.org/abs/2210.03871).  
 Alon Albalak, **Akshat Shrivastava**, Chinnadhurai Sankar, Adithya Sagar, Mike Ross.  
 Preprint
@@ -23,12 +41,12 @@ Duc Le\*, **Akshat Shrivastava\* (co-first author)**, Paden Tomasello, Suyoun Ki
 **Interspeech 2022**
 * [Retrieve-and-Fill for Scenario-based Task-Oriented Semantic Parsing](https://arxiv.org/abs/2202.00901)     
 **Akshat Shrivastava**, Shrey Desai, Anchit Gupta, Ali Elkahky, Aleksandr Livshits, Alexander Zotov, Ahmed Aly   
-Preprint
+**EACL 2023**
 
 ### 2021
 * [RETRONLU: Retrieval Augmented Task-Oriented Semantic Parsing](https://arxiv.org/abs/2109.10410)   
 Vivek Gupta, **Akshat Shrivastava**, Adithya Sagar, Armen Aghajanyan, and Denis Savenkov   
-Preprint
+**🏆 Outstanding Paper - ConvAI@ACL 2022** 
 * [Assessing Data Efficiency in Task-Oriented Semantic Parsing](https://arxiv.org/abs/2107.04736)   
 Shrey Desai, **Akshat Shrivastava**, Justin Rill, Brian Moran, Safiyyah Saleem, Alexander Zotov, and Ahmed Aly   
 Preprint
