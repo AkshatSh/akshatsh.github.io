@@ -8,5 +8,11 @@ description: |
 
 #### Research Scientist
 
-* Working on Natural Language Understanding at Facebook Assistant
-* Exploring efficient and scalable solutions to semantic parsing, see publications for latest work
+Working on Language AI in AR AI, where my research has shipped in products such as Rayban Meta, Rayban Stories, Oculus, and Portal.
+
+My work includes:
+- On-device LLMs 
+- LLM Strategy for AR Devices
+- Non-autoregressive generation
+- Audio based NLP Systems for Spoken Language Understanding
+- Data efficient and high quality semantic parsing
