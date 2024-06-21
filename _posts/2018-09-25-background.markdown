@@ -5,7 +5,9 @@ title: Background
 description: |
 ---
 
-* Currently, I am a research scientist at Meta Reality Labs working on Natural Language Understanding for Conversational Assistants.
+* Currently, I am a research scientist at Meta AI FAIR working on pre-training, LLMs, and multimodality.
+
+* Previously, I was a research scientist at Meta Reality Labs working on Language AI and On-device AI in Meta AR, Smart Glasses, and Meta Assistant.
 
 * I recieved my Masters Degree from the University of Washington in 2019, my focus was in machine learning and natural language processing. I was working with Prof. Jeffrey Heer at the Interactive Data Lab.
 
