@@ -5,4 +5,4 @@ title: Contact Me
 description: |
 ---
 
-* Feel free to reach out to me over email: [akshats@cs.washington.edu](mailto:akshats@cs.washington.edu)
+* Feel free to reach out to me over email: [akshatsh77@gmail.com](mailto:akshatsh77@gmail.com)
