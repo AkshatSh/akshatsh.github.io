@@ -4,4 +4,4 @@ title: Akshat Shrivastava
 description: |
 ---
 
-Graduate Student.
+Research Scientist.
