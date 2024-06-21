@@ -1,0 +1,11 @@
+---
+layout: default
+img: facebook.png
+category: Experience
+title: Facebook
+description: |
+---
+
+#### Research Scientist
+
+* Working at Meta AI FAIR, my research includes pre-training, LLMs, and multimodal modeling.
