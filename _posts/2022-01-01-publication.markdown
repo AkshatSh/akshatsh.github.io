@@ -8,6 +8,18 @@ description: |
 
 ## Papers
 
+### 2024
+* [PRoDeliberation: Parallel Robust Deliberation for End-to-End Spoken Language Understanding](https://arxiv.org/pdf/2406.07823)  
+Trang Le\*, Daniel Lazar\*, Suyoun Kim, Shan Jiang, Duc Le, Adithya Sagar, Aleksandr Livshits, Ahmed Aly, **Akshat Shrivastava**
+* [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/pdf/2405.09818?) | [Github](https://github.com/facebookresearch/chameleon) | [Blog](https://ai.meta.com/blog/meta-fair-research-new-releases/) | [Model Checkpoints](https://ai.meta.com/resources/models-and-libraries/chameleon-downloads/)  
+Chameleon Team (member of pre-training team)  
+* [Layer skip: Enabling early exit inference and self-speculative decoding](https://arxiv.org/pdf/2404.16710)  
+Mostafa Elhoushi\*, **Akshat Shrivastava\* (co-first author)**, Diana Liskovich, Basil Hosmer, Bram Wasti, Liangzhen Lai, Anas Mahmoud, Bilge Acun, Saurabh Agarwal, Ahmed Roman, Ahmed A Aly, Beidi Chen, Carole-Jean Wu  
+**ACL 2024**
+* [Small But Funny: A Feedback-Driven Approach to Humor Distillation](https://arxiv.org/pdf/2402.18113)   
+Sahithya Ravi, Patrick Huber, **Akshat Shrivastava**, Aditya Sagar, Ahmed Aly, Vered Shwartz, Arash Einolghozati  
+**ACL 2024**
+
 ### 2023
 * [ICASSP 2023 SPOKEN LANGUAGE UNDERSTANDING GRAND CHALLENGE](https://akshatsh.github.io/papers/SLU_ICASSP_Challenge_Summary_upload.pdf) | [Challenge Website](https://facebookresearch.github.io/spoken_task_oriented_parsing/)  
 **Akshat Shrivastava**, Suyoun Kim, Paden Tomasello, Ali Elkahky, Daniel Lazar,Trang Le, Shan Jiang, Duc Le, Aleksandr Livshits, Ahmed Aly     
