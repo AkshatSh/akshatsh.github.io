@@ -10,12 +10,17 @@ description: |
 
 ### 2024
 * [PRoDeliberation: Parallel Robust Deliberation for End-to-End Spoken Language Understanding](https://arxiv.org/pdf/2406.07823)  
-Trang Le\*, Daniel Lazar\*, Suyoun Kim, Shan Jiang, Duc Le, Adithya Sagar, Aleksandr Livshits, Ahmed Aly, **Akshat Shrivastava**
+Trang Le\*, Daniel Lazar\*, Suyoun Kim, Shan Jiang, Duc Le, Adithya Sagar, Aleksandr Livshits, Ahmed Aly, **Akshat Shrivastava**  
+Pre-print   
 * [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/pdf/2405.09818?) | [Github](https://github.com/facebookresearch/chameleon) | [Blog](https://ai.meta.com/blog/meta-fair-research-new-releases/) | [Model Checkpoints](https://ai.meta.com/resources/models-and-libraries/chameleon-downloads/)  
 Chameleon Team (member of pre-training team)  
+Pre-print  
 * [Layer skip: Enabling early exit inference and self-speculative decoding](https://arxiv.org/pdf/2404.16710)  
 Mostafa Elhoushi\*, **Akshat Shrivastava\* (co-first author)**, Diana Liskovich, Basil Hosmer, Bram Wasti, Liangzhen Lai, Anas Mahmoud, Bilge Acun, Saurabh Agarwal, Ahmed Roman, Ahmed A Aly, Beidi Chen, Carole-Jean Wu  
 **ACL 2024**
+* [PrE-Text: Training Language Models on Private Federated Data in the Age of LLMs](https://arxiv.org/abs/2406.02958)  
+Charlie Hou, **Akshat Shrivastava**, Hongyuan Zhan, Rylan Conway, Trang Le, Adithya Sagar, Giulia Fanti, Daniel Lazar  
+**ICML 2024 Oral Presentation**
 * [Small But Funny: A Feedback-Driven Approach to Humor Distillation](https://arxiv.org/pdf/2402.18113)   
 Sahithya Ravi, Patrick Huber, **Akshat Shrivastava**, Aditya Sagar, Ahmed Aly, Vered Shwartz, Arash Einolghozati  
 **ACL 2024**
