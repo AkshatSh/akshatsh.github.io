@@ -9,6 +9,12 @@ description: |
 ## Papers
 
 ### 2024
+* [CoDi: Conversational Distillation for Grounded Question Answering](https://arxiv.org/abs/2408.11219v1)  
+Patrick Huber\*, Arash Einolghozati, Rylan Conway, Kanika Narang, Matt Smith, Waqar Nayyar, Adithya Sagar, Ahmed Aly, **Akshat Shrivastava\* (co-first author)**    
+Pre-print
+* [MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts](https://arxiv.org/abs/2407.21770)   
+Xi Victoria Lin\*, **Akshat Shrivastava\*** (co-first author), Liang Luo, Srinivasan Iyer, Mike Lewis, Gargi Ghosh, Luke Zettlemoyer, Armen Aghajanyan\*   
+Pre-print   
 * [PRoDeliberation: Parallel Robust Deliberation for End-to-End Spoken Language Understanding](https://arxiv.org/pdf/2406.07823)  
 Trang Le\*, Daniel Lazar\*, Suyoun Kim, Shan Jiang, Duc Le, Adithya Sagar, Aleksandr Livshits, Ahmed Aly, **Akshat Shrivastava**  
 Pre-print   
