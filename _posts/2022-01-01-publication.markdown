@@ -106,6 +106,10 @@ Armen Aghajanyan, **Akshat Shrivastava**, Anchit Gupta, Naman Goyal, Luke Zettle
 
 ## Workshops and Challenges
 
+### Blog Posts
+* [Building a conversational parser for on-device voice assistants](https://ai.meta.com/blog/building-a-conversational-parser-for-on-device-voice-assistants/)  
+A blog post about our work on non-autoregressive semantic parsing for low latency conversational assistants
+
 ### Organizer
 * [Spoken Language Understanding Grand Challenge @ ICASSP 2023](https://facebookresearch.github.io/spoken_task_oriented_parsing/).  
 **ICASSP 2023**
