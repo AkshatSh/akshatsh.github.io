@@ -8,4 +8,7 @@ description: |
 
 #### Research Scientist
 
-* Working at Meta AI FAIR, my research includes pre-training, LLMs, and multimodal modeling.
+Working at Meta AI FAIR, my research includes pre-training, LLMs, and multimodal modeling. My work includes:
+- Efficient Adaptive Multimodal Architectures ([MoMa](https://arxiv.org/abs/2407.21770))
+- Efficient LLM Inference ([LayerSkip](https://arxiv.org/abs/2404.16710))
+- Multimodal Foundation Models ([Chameleon](https://arxiv.org/abs/2405.09818))
