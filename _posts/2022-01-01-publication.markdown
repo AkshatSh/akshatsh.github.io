@@ -17,7 +17,7 @@ Xi Victoria Lin\*, **Akshat Shrivastava\* (co-first author)**, Liang Luo, Sriniv
 Pre-print   
 * [PRoDeliberation: Parallel Robust Deliberation for End-to-End Spoken Language Understanding](https://arxiv.org/pdf/2406.07823)  
 Trang Le\*, Daniel Lazar\*, Suyoun Kim, Shan Jiang, Duc Le, Adithya Sagar, Aleksandr Livshits, Ahmed Aly, **Akshat Shrivastava**  
-Pre-print   
+**EMNLP 2024 Findings**   
 * [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/pdf/2405.09818?) | [Github](https://github.com/facebookresearch/chameleon) | [Blog](https://ai.meta.com/blog/meta-fair-research-new-releases/) | [Model Checkpoints](https://ai.meta.com/resources/models-and-libraries/chameleon-downloads/)  
 Chameleon Team (member of pre-training team)  
 Pre-print  
