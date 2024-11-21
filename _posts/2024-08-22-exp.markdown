@@ -1,0 +1,13 @@
+---
+layout: default
+img: perceptron_logo.jpeg
+category: Experience
+title: Perceptron AI
+description: |
+---
+
+#### Co-founder & CTO
+
+* Our mission is to deliver the layer of intelligence that bridges the physical and digital worlds.
+* Perceptron is developing the first family of foundation models for the physical world. Our foundation models treat all input streams—video, audio, text, and structured data—as first-class citizens, maintaining consistent real-time performance across diverse hardware configurations.
+* We're a fully in-person team located in Seattle. If you're interested in joining us, get in touch: hiring@perceptron.inc
