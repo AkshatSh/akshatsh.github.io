@@ -5,7 +5,9 @@ title: Background
 description: |
 ---
 
-* Currently, I am a research scientist at Meta AI FAIR working on pre-training, LLMs, and multimodality.
+* Currently, I am the co-founder and CTO of [Perceptron AI](https://perceptron.inc/) a foundation model company focused on the physical world.
+
+* Previously, I was a research scientist at Meta AI FAIR working on pre-training, LLMs, and multimodality.
 
 * Previously, I was a research scientist at Meta Reality Labs working on Language AI and On-device AI in Meta AR, Smart Glasses, and Meta Assistant.
 
