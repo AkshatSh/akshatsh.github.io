@@ -20,13 +20,13 @@ footer-links:
   dribbble:
   email: akshatsh77@gmail.com
   facebook: akshat.shrivastava.1420
-  flickr:
+  # flickr:
   github: AkshatSh
   instagram: akshats77
   linkedin: akshatsh
   # resume: AkshatResumeOctober4th2018.pdf
-  pinterest:
-  rss: a # just type anything here for a working RSS icon
+  # pinterest:
+  # rss: a # just type anything here for a working RSS icon
   twitter: AkshatS07 # jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
